@@ -1,7 +1,7 @@
 # medicalDocumentAssistant
-Work done at Go Reply internship March2024
+Work done at Go Reply internship March 2024
 
-This is a proof of concept for a jargon buster.
+This is a proof of concept for a jargon buster and was presented to the rest of the team.
 
 The idea is that when presented with a medical document, it explains its significance/meaning in simple terms WITHOUT making a diagnosis.
 
